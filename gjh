@@ -1,0 +1,1 @@
+n=int(input("donner votre nom "))
